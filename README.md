@@ -1,6 +1,6 @@
 # Tutorial
 
-[here](https://ja.reactjs.org/tutorial/tutorial.html "here")
+[here](https://ja.reactjs.org/tutorial/tutorial.html "React.js tutorial")
 
 # Getting Started with Create React App
 
